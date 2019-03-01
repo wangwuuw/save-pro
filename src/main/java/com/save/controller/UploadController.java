@@ -1,5 +1,8 @@
 package com.save.controller;
 
-public class UploadController {
+import org.springframework.web.bind.annotation.RestController;
 
+@RestController
+public class UploadController {
+          
 }
